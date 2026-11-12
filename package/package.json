@@ -1,13 +1,14 @@
 {
-  "name" : "ans.fr.template",
+  "name" : "ans.cda.fr.template",
   "type" : "fhir.template",
   "license" : "CC0-1.0",
-  "description" : "ANS FHIR IG Base Template",
+  "description" : "ANS FHIR IG Base Template - CDA style",
   "author" : "https://esante.gouv.fr",
-  "canonical" : "https://interop.esante.gouv.fr/ig/template",
+  "canonical" : "https://interop.esante.gouv.fr/ig/template.cda",
   "base" : "fhir2.base.template",
   "dependencies" : {
     "fhir2.base.template" : "current"
   },
-  "version" : "1.0.1"
+  "fhirVersions" : ["4.0.1"],
+  "version" : "0.1.0"
 }

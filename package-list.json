@@ -1,51 +1,15 @@
 {
-  "package-id" : "ans.fr.template",
-  "title" : "Base template for ANS IGs",
-  "canonical" : "https://interop.esante.gouv.fr/ig/template",
-  "introduction" : "This is the base template for ANS",
+  "package-id" : "ans.cda.fr.template",
+  "title" : "ANS FHIR IG Base Template - CDA style",
+  "canonical" : "https://interop.esante.gouv.fr/ig/template.cda",
+  "introduction" : "This is the ANS base template for CDA-style IGs",
   "list" : [
     {
       "version" : "current",
       "desc" : "Continuous Integration Build (latest in version control)",
-      "path" : "https://ansforge.github.io/IG-template/main/ig",
+      "path" : "https://ansforge.github.io/interop-IG-style/cda/ig",
       "status" : "ci-build",
       "current" : true
-    },
-    {
-      "version" : "1.0.1",
-      "path" : "https://interop.esante.gouv.fr/ig/template/1.0.0",
-      "status" : "release",
-      "sequence" : "Publications",
-      "fhirversion" : "4.0.1",
-      "desc" : "Upgrade for dependency on template base 2",
-      "date" : "2026-07-01",
-      "current" : true
-    },
-    {
-      "version" : "1.0.0",
-      "path" : "https://interop.esante.gouv.fr/ig/template/1.0.0",
-      "status" : "release",
-      "sequence" : "Publications",
-      "fhirversion" : "4.0.1",
-      "desc" : "Upgrade for dependency on fhir.base.template",
-      "date" : "2025-10-01",
-      "current" : true
-    },
-    {
-      "version" : "0.2.0",
-      "desc" : "release template",
-      "path" : "https://interop.esante.gouv.fr/ig/template/0.2.0",
-      "status" : "release",
-      "sequence" : "Publications",
-      "date" : "2025-03-05"
-    },
-    {
-      "version" : "0.1.0",
-      "desc" : "release template",
-      "path" : "https://interop.esante.gouv.fr/ig/template/0.1.0",
-      "status" : "release",
-      "sequence" : "Publications",
-      "date" : "2025-02-25"
     }
   ]
 }
