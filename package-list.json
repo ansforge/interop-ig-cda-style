@@ -10,6 +10,16 @@
       "path" : "https://ansforge.github.io/interop-ig-cda-style/main/ig",
       "status" : "ci-build",
       "current" : true
-    }
+    },    
+    {
+      "version" : "0.1.0",
+      "path" : "https://interop.esante.gouv.fr/ig/cda/template/0.1.0",
+      "status" : "release",
+      "sequence" : "Publications",
+      "fhirversion" : "4.0.1",
+      "desc" : "Upgrade for dependency on template base 2",
+      "date" : "2026-11-12",
+      "current" : true
+    },
   ]
 }
