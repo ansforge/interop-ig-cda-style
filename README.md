@@ -18,7 +18,7 @@ Dans le fichier `ig.ini` d'un IG, référencer le template :
 template = ans.cda.fr.template#current
 ```
 
-Pour créer un IG, le plus simple est de forker [le repo ans-ig-sample](https://github.com/ansforge/FIG_ans-ig-sample) puis d'adapter la référence du template.
+Pour créer un IG, le plus simple est de forker [le repo IG-modele](https://github.com/ansforge/IG-modele) puis d'adapter la référence du template.
 
 ## Acronymes
 
