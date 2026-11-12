@@ -1,0 +1,3 @@
+url = https://interop.esante.gouv.fr/ig/cda/template
+package-id = ans.cda.fr.template
+ig-ver = 0.1.0

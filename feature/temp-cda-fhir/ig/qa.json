@@ -1,0 +1,9 @@
+{
+  "url" : "https://interop.esante.gouv.fr/ig/cda/template",
+  "package-id" : "ans.cda.fr.template",
+  "ig-ver" : "0.1.0",
+  "date" : "Thu, 12 Nov, 2026 10:52:00 +0000",
+  "dateISO8601" : "2026-11-12T10:52:00+00:00",
+  "version" : "6.0.0-snapshot1",
+  "tool" : "6.0.0-snapshot1 (3)"
+}
