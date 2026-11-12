@@ -3,7 +3,7 @@
 Template d'Implementation Guide (IG) FHIR de l'ANS, spécifique aux IG de style **CDA**.
 
 - **Identifiant du package** : `ans.cda.fr.template`
-- **Canonical** : https://interop.esante.gouv.fr/ig/template.cda
+- **Canonical** : https://interop.esante.gouv.fr/ig/cda/template
 - **Template de base** : `fhir2.base.template`
 - **Build continu** : https://ansforge.github.io/interop-ig-cda-style/main/ig
 
