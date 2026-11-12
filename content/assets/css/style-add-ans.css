@@ -69,3 +69,9 @@ ul {
 .table th {
     overflow-wrap: anywhere;
 }
+
+.table > tbody > tr > td.hierarchy,
+.table td.hierarchy {
+    padding: 0 4px;
+    line-height: normal;
+}
